@@ -5,3 +5,5 @@ tests/Check24.Task.UnitTests/bin/
 tests/Check24.Task.UnitTests/obj/
 src/2048.Game/bin/
 src/2048.Game/obj/
+tests/2048.Game.UnitTests/bin/
+tests/2048.Game.UnitTests/obj/
