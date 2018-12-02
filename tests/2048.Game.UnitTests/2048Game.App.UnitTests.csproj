@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Check24.Task\2048Game.App.csproj" />
+    <ProjectReference Include="..\..\src\2048.Game\2048Game.App.csproj" />
   </ItemGroup>
 
 </Project>
