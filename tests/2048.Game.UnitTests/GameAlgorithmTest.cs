@@ -1,7 +1,7 @@
 using FluentAssertions;
 using Xunit;
 
-namespace Check24.Task.UnitTests
+namespace Game.App.UnitTests
 {
     public class GameAlgorithmTest
     {

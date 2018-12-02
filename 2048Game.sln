@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2048Game.App", "src\2048.Game\2048Game.App.csproj", "{D279B90F-BA6C-4A72-A5A7-411027111409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2048.Game", "src\2048.Game\2048.Game.csproj", "{D279B90F-BA6C-4A72-A5A7-411027111409}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2048Game.App.UnitTests", "tests\2048.Game.UnitTests\2048Game.App.UnitTests.csproj", "{3FADA470-362B-4EB6-BFDD-629E622E8EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2048.Game.UnitTests", "tests\2048.Game.UnitTests\2048.Game.UnitTests.csproj", "{3FADA470-362B-4EB6-BFDD-629E622E8EC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

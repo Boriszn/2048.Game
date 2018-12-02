@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Check24.Task
+namespace Game.App
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Check24.Task
+namespace Game.App
 {
     public class GameAlgorithm : IGameAlgorithm
     {

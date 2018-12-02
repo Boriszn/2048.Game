@@ -1,4 +1,4 @@
-namespace Check24.Task
+namespace Game.App
 {
     public interface IGameAlgorithm
     {

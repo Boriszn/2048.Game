@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Check24.Task
+namespace Game.App
 {
     public class ConsoleUtils
     {
